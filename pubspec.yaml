@@ -59,6 +59,7 @@ flutter:
   assets:
   - assets/book.png
   - assets/reaction.png
+  - assets/background.jpg
 
 
   # The following line ensures that the Material Icons font is
